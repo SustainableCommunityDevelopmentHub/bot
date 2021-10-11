@@ -7,7 +7,7 @@ from discord.ext import commands
 #
 # Grab the API token from the .env file.
 #DISCORD_TOKEN = os.getenv("DISCORD_TOKEN")
-DISCORD_TOKEN="ODk1ODMxNTYwMDUyNDEyNDE3.YV-SJw.P32PS2Kf9avmuRErSXeyyP4PDOc"
+#DISCORD_TOKEN="Add your token here, or to .env variable.  This server installation had trouble insalling os and deotenv so i have added it here."
 
 API_SUBURL = "https://api.opensea.io/api/v1/asset/0x46F9A4522666d2476a5F5Cd51ea3E0b5800E7f98/"
 SCDHUB_API = "https://scdhub.org/index.json"
